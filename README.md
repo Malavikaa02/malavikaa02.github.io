@@ -1,2 +1,2 @@
 # malavikaa02.github.io
-Explore the code and assets used to develop a straightforward Virtual Classroom Software website.
+Examine the programming and resources utilized to create a simple Virtual Classroom Software website.
